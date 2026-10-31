@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 9455f0d71a090e24696e36bd70930041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6053147294162243759
+    second: PandaMaru_MV_xmasdecoration_0
+  - first:
+      213: 788123705694091100
+    second: PandaMaru_MV_xmasdecoration_1
+  - first:
+      213: 1339329012512437409
+    second: PandaMaru_MV_xmasdecoration_2
+  - first:
+      213: -4412434832593729555
+    second: PandaMaru_MV_xmasdecoration_3
+  - first:
+      213: 1695105139339930994
+    second: PandaMaru_MV_xmasdecoration_4
+  - first:
+      213: -6127038884201649029
+    second: PandaMaru_MV_xmasdecoration_5
+  - first:
+      213: -747165220811002781
+    second: PandaMaru_MV_xmasdecoration_6
+  - first:
+      213: -599680727618482245
+    second: PandaMaru_MV_xmasdecoration_7
+  - first:
+      213: -5488468405034027588
+    second: PandaMaru_MV_xmasdecoration_8
+  - first:
+      213: 32343385539544366
+    second: PandaMaru_MV_xmasdecoration_9
+  - first:
+      213: -3381388642297972736
+    second: PandaMaru_MV_xmasdecoration_10
+  - first:
+      213: -4688309891118037026
+    second: PandaMaru_MV_xmasdecoration_11
+  - first:
+      213: -8656115566874591090
+    second: PandaMaru_MV_xmasdecoration_12
+  - first:
+      213: -1836458674212272882
+    second: PandaMaru_MV_xmasdecoration_13
+  - first:
+      213: -2612793147585429084
+    second: PandaMaru_MV_xmasdecoration_14
+  - first:
+      213: -6295624981896868254
+    second: PandaMaru_MV_xmasdecoration_15
+  - first:
+      213: -2905119303239399532
+    second: PandaMaru_MV_xmasdecoration_16
+  - first:
+      213: -6827674095257604833
+    second: PandaMaru_MV_xmasdecoration_17
+  - first:
+      213: -1461330235050453466
+    second: PandaMaru_MV_xmasdecoration_18
+  - first:
+      213: -4932634041738299793
+    second: PandaMaru_MV_xmasdecoration_19
+  - first:
+      213: -7393474288960093229
+    second: PandaMaru_MV_xmasdecoration_20
+  - first:
+      213: 1121081118001859016
+    second: PandaMaru_MV_xmasdecoration_21
+  - first:
+      213: 1038788186815772740
+    second: PandaMaru_MV_xmasdecoration_22
+  - first:
+      213: -7145541014253490004
+    second: PandaMaru_MV_xmasdecoration_23
+  - first:
+      213: 6799808422528818610
+    second: PandaMaru_MV_xmasdecoration_24
+  - first:
+      213: -5983015460142768711
+    second: PandaMaru_MV_xmasdecoration_25
+  - first:
+      213: 1703456770116702810
+    second: PandaMaru_MV_xmasdecoration_26
+  - first:
+      213: -7727386020911100408
+    second: PandaMaru_MV_xmasdecoration_27
+  - first:
+      213: 5006581010965817331
+    second: PandaMaru_MV_xmasdecoration_28
+  - first:
+      213: -4948097766257474052
+    second: PandaMaru_MV_xmasdecoration_29
+  - first:
+      213: -6486331892414350919
+    second: PandaMaru_MV_xmasdecoration_30
+  - first:
+      213: 7696284522375555370
+    second: PandaMaru_MV_xmasdecoration_31
+  - first:
+      213: 535931447459140566
+    second: PandaMaru_MV_xmasdecoration_32
+  - first:
+      213: 1348377031545137759
+    second: PandaMaru_MV_xmasdecoration_33
+  - first:
+      213: 4270804010122847641
+    second: PandaMaru_MV_xmasdecoration_34
+  - first:
+      213: -6817387195002088584
+    second: PandaMaru_MV_xmasdecoration_35
+  - first:
+      213: -3159116764501513677
+    second: PandaMaru_MV_xmasdecoration_36
+  - first:
+      213: -5032188963681898494
+    second: PandaMaru_MV_xmasdecoration_37
+  - first:
+      213: 4266568477169285891
+    second: PandaMaru_MV_xmasdecoration_38
+  - first:
+      213: -361363238963661798
+    second: PandaMaru_MV_xmasdecoration_39
+  - first:
+      213: -8035264594024054158
+    second: PandaMaru_MV_xmasdecoration_40
+  - first:
+      213: -1298431351159751809
+    second: PandaMaru_MV_xmasdecoration_41
+  - first:
+      213: -8059916006372260538
+    second: PandaMaru_MV_xmasdecoration_42
+  - first:
+      213: 3029499645360399674
+    second: PandaMaru_MV_xmasdecoration_43
+  - first:
+      213: 8004467319127877727
+    second: PandaMaru_MV_xmasdecoration_44
+  - first:
+      213: -3445050977470374355
+    second: PandaMaru_MV_xmasdecoration_45
+  - first:
+      213: 710383576174984204
+    second: PandaMaru_MV_xmasdecoration_46
+  - first:
+      213: 7430814129778558524
+    second: PandaMaru_MV_xmasdecoration_47
+  - first:
+      213: 6369321322600102708
+    second: PandaMaru_MV_xmasdecoration_48
+  - first:
+      213: 108967719003923282
+    second: PandaMaru_MV_xmasdecoration_49
+  - first:
+      213: 1354991182288771137
+    second: PandaMaru_MV_xmasdecoration_50
+  - first:
+      213: -4651429821837671841
+    second: PandaMaru_MV_xmasdecoration_51
+  - first:
+      213: -3756815490535058574
+    second: PandaMaru_MV_xmasdecoration_52
+  - first:
+      213: -6060023107258067819
+    second: PandaMaru_MV_xmasdecoration_53
+  - first:
+      213: -4050972278036083000
+    second: PandaMaru_MV_xmasdecoration_54
+  - first:
+      213: 8320052299577753738
+    second: PandaMaru_MV_xmasdecoration_55
+  - first:
+      213: -7795320745472195744
+    second: PandaMaru_MV_xmasdecoration_56
+  - first:
+      213: -2575483825635445074
+    second: PandaMaru_MV_xmasdecoration_57
+  - first:
+      213: -6142301815818950591
+    second: PandaMaru_MV_xmasdecoration_58
+  - first:
+      213: 2503895396182781880
+    second: PandaMaru_MV_xmasdecoration_59
+  - first:
+      213: -3286066337591531087
+    second: PandaMaru_MV_xmasdecoration_60
+  - first:
+      213: -2144704010266560451
+    second: PandaMaru_MV_xmasdecoration_61
+  - first:
+      213: -5896993562043885035
+    second: PandaMaru_MV_xmasdecoration_62
+  - first:
+      213: 2582738326142982478
+    second: PandaMaru_MV_xmasdecoration_63
+  - first:
+      213: 4327599670950476778
+    second: PandaMaru_MV_xmasdecoration_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 717
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa058a1a469110450800000000000000
+      internalID: 6053147294162243759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 732
+        width: 291
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f5fca55affea00800000000000000
+      internalID: 788123705694091100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 694
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4bd2c04a0469210800000000000000
+      internalID: 1339329012512437409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 694
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7c0b8d5e1e3c2c0800000000000000
+      internalID: -4412434832593729555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 647
+        width: 280
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dab47a429368710800000000000000
+      internalID: 1695105139339930994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 385
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca726e89268faa0800000000000000
+      internalID: -6127038884201649029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 538
+        width: 145
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca809b03981a5f0800000000000000
+      internalID: -747165220811002781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 539
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf07a33e818da7f0800000000000000
+      internalID: -599680727618482245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 531
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5fdf4901b05d3b0800000000000000
+      internalID: -5488468405034027588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 538
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e250be54328e27000800000000000000
+      internalID: 32343385539544366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 533
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008f948f1f4e211d0800000000000000
+      internalID: -3381388642297972736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 533
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed785f66ef6cfeeb0800000000000000
+      internalID: -4688309891118037026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 460
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8006b501cc4fd780800000000000000
+      internalID: -8656115566874591090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 453
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0584e6d0969386e0800000000000000
+      internalID: -1836458674212272882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 434
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18896b97e7dbbd0800000000000000
+      internalID: -2612793147585429084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_15
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 453
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e46f24f6271a8a0800000000000000
+      internalID: -6295624981896868254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 451
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497094cb261fea7d0800000000000000
+      internalID: -2905119303239399532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 498
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1da80eb59a3f31a0800000000000000
+      internalID: -6827674095257604833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_18
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 442
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269748c4ef48bbe0800000000000000
+      internalID: -1461330235050453466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 342
+        width: 235
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6670372973cb8bb0800000000000000
+      internalID: -4932634041738299793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 383
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3cc867e4a156990800000000000000
+      internalID: -7393474288960093229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 390
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c906ea4651ee8f00800000000000000
+      internalID: 1121081118001859016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 388
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b6082a548a6e00800000000000000
+      internalID: 1038788186815772740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 335
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0bf656e40f5dc90800000000000000
+      internalID: -7145541014253490004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_24
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 336
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd1a8dbbb5cd5e50800000000000000
+      internalID: 6799808422528818610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 348
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd158c632f08fca0800000000000000
+      internalID: -5983015460142768711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a525a0938e4e3a710800000000000000
+      internalID: 1703456770116702810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 366
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e464dfa5fc2c490800000000000000
+      internalID: -7727386020911100408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 358
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f765d947e2fa7540800000000000000
+      internalID: 5006581010965817331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 365
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5c1583c43d45bb0800000000000000
+      internalID: -4948097766257474052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9fa59828bebf5a0800000000000000
+      internalID: -6486331892414350919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 335
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2928861ff1beca60800000000000000
+      internalID: 7696284522375555370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 294
+        width: 182
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d353cddfc2007700800000000000000
+      internalID: 535931447459140566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 317
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a2b8424c566b210800000000000000
+      internalID: 1348377031545137759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 241
+        width: 25
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995afa89e91f44b30800000000000000
+      internalID: 4270804010122847641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739a995776c361a0800000000000000
+      internalID: -6817387195002088584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 246
+        width: 183
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae7e75a009824d0800000000000000
+      internalID: -3159116764501513677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 248
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20079199cc21a2ab0800000000000000
+      internalID: -5032188963681898494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 245
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bfd8bbc65e53b30800000000000000
+      internalID: 4266568477169285891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 240
+        width: 127
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14bfaa7c0e2cfaf0800000000000000
+      internalID: -361363238963661798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 145
+        width: 126
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2724ce4ac610d7090800000000000000
+      internalID: -8035264594024054158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_41
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 252
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b74e4c09b0bfde0800000000000000
+      internalID: -1298431351159751809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64542b0781d652090800000000000000
+      internalID: -8059916006372260538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 284
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35e0e060e1fa0a20800000000000000
+      internalID: 3029499645360399674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 144
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5827d40e94951f60800000000000000
+      internalID: 8004467319127877727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_45
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e14ce7368b030d0800000000000000
+      internalID: -3445050977470374355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 145
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c7e28491acbd900800000000000000
+      internalID: 710383576174984204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_47
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 95
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c368765b41e8f1760800000000000000
+      internalID: 7430814129778558524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 119
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b76ed2fff546850800000000000000
+      internalID: 6369321322600102708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_49
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 118
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253a6372091238100800000000000000
+      internalID: 108967719003923282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148db1e1d45edc210800000000000000
+      internalID: 1354991182288771137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5205bba83dc27fb0800000000000000
+      internalID: -4651429821837671841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 52
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27319ff373c1ddbc0800000000000000
+      internalID: -3756815490535058574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5945931671976eba0800000000000000
+      internalID: -6060023107258067819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 53
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce44b41d2e08c7c0800000000000000
+      internalID: -4050972278036083000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 53
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8001052c73c67370800000000000000
+      internalID: 8320052299577753738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 53
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06385e7551571d390800000000000000
+      internalID: -7795320745472195744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 53
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea63c382b1b024cd0800000000000000
+      internalID: -2575483825635445074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 53
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148efd4ba0922caa0800000000000000
+      internalID: -6142301815818950591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1
+        width: 197
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe53cb89f9fb220800000000000000
+      internalID: 2503895396182781880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_60
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1
+        width: 196
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9ec77831c8562d0800000000000000
+      internalID: -3286066337591531087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 90
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38b4b7d01b7c32e0800000000000000
+      internalID: -2144704010266560451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51adb93599ba92ea0800000000000000
+      internalID: -5896993562043885035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_63
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491a8dd2dab7d320800000000000000
+      internalID: 2582738326142982478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_xmasdecoration_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb91dd8f8be0c30800000000000000
+      internalID: 4327599670950476778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PandaMaru_MV_xmasdecoration_0: 6053147294162243759
+      PandaMaru_MV_xmasdecoration_1: 788123705694091100
+      PandaMaru_MV_xmasdecoration_10: -3381388642297972736
+      PandaMaru_MV_xmasdecoration_11: -4688309891118037026
+      PandaMaru_MV_xmasdecoration_12: -8656115566874591090
+      PandaMaru_MV_xmasdecoration_13: -1836458674212272882
+      PandaMaru_MV_xmasdecoration_14: -2612793147585429084
+      PandaMaru_MV_xmasdecoration_15: -6295624981896868254
+      PandaMaru_MV_xmasdecoration_16: -2905119303239399532
+      PandaMaru_MV_xmasdecoration_17: -6827674095257604833
+      PandaMaru_MV_xmasdecoration_18: -1461330235050453466
+      PandaMaru_MV_xmasdecoration_19: -4932634041738299793
+      PandaMaru_MV_xmasdecoration_2: 1339329012512437409
+      PandaMaru_MV_xmasdecoration_20: -7393474288960093229
+      PandaMaru_MV_xmasdecoration_21: 1121081118001859016
+      PandaMaru_MV_xmasdecoration_22: 1038788186815772740
+      PandaMaru_MV_xmasdecoration_23: -7145541014253490004
+      PandaMaru_MV_xmasdecoration_24: 6799808422528818610
+      PandaMaru_MV_xmasdecoration_25: -5983015460142768711
+      PandaMaru_MV_xmasdecoration_26: 1703456770116702810
+      PandaMaru_MV_xmasdecoration_27: -7727386020911100408
+      PandaMaru_MV_xmasdecoration_28: 5006581010965817331
+      PandaMaru_MV_xmasdecoration_29: -4948097766257474052
+      PandaMaru_MV_xmasdecoration_3: -4412434832593729555
+      PandaMaru_MV_xmasdecoration_30: -6486331892414350919
+      PandaMaru_MV_xmasdecoration_31: 7696284522375555370
+      PandaMaru_MV_xmasdecoration_32: 535931447459140566
+      PandaMaru_MV_xmasdecoration_33: 1348377031545137759
+      PandaMaru_MV_xmasdecoration_34: 4270804010122847641
+      PandaMaru_MV_xmasdecoration_35: -6817387195002088584
+      PandaMaru_MV_xmasdecoration_36: -3159116764501513677
+      PandaMaru_MV_xmasdecoration_37: -5032188963681898494
+      PandaMaru_MV_xmasdecoration_38: 4266568477169285891
+      PandaMaru_MV_xmasdecoration_39: -361363238963661798
+      PandaMaru_MV_xmasdecoration_4: 1695105139339930994
+      PandaMaru_MV_xmasdecoration_40: -8035264594024054158
+      PandaMaru_MV_xmasdecoration_41: -1298431351159751809
+      PandaMaru_MV_xmasdecoration_42: -8059916006372260538
+      PandaMaru_MV_xmasdecoration_43: 3029499645360399674
+      PandaMaru_MV_xmasdecoration_44: 8004467319127877727
+      PandaMaru_MV_xmasdecoration_45: -3445050977470374355
+      PandaMaru_MV_xmasdecoration_46: 710383576174984204
+      PandaMaru_MV_xmasdecoration_47: 7430814129778558524
+      PandaMaru_MV_xmasdecoration_48: 6369321322600102708
+      PandaMaru_MV_xmasdecoration_49: 108967719003923282
+      PandaMaru_MV_xmasdecoration_5: -6127038884201649029
+      PandaMaru_MV_xmasdecoration_50: 1354991182288771137
+      PandaMaru_MV_xmasdecoration_51: -4651429821837671841
+      PandaMaru_MV_xmasdecoration_52: -3756815490535058574
+      PandaMaru_MV_xmasdecoration_53: -6060023107258067819
+      PandaMaru_MV_xmasdecoration_54: -4050972278036083000
+      PandaMaru_MV_xmasdecoration_55: 8320052299577753738
+      PandaMaru_MV_xmasdecoration_56: -7795320745472195744
+      PandaMaru_MV_xmasdecoration_57: -2575483825635445074
+      PandaMaru_MV_xmasdecoration_58: -6142301815818950591
+      PandaMaru_MV_xmasdecoration_59: 2503895396182781880
+      PandaMaru_MV_xmasdecoration_6: -747165220811002781
+      PandaMaru_MV_xmasdecoration_60: -3286066337591531087
+      PandaMaru_MV_xmasdecoration_61: -2144704010266560451
+      PandaMaru_MV_xmasdecoration_62: -5896993562043885035
+      PandaMaru_MV_xmasdecoration_63: 2582738326142982478
+      PandaMaru_MV_xmasdecoration_64: 4327599670950476778
+      PandaMaru_MV_xmasdecoration_7: -599680727618482245
+      PandaMaru_MV_xmasdecoration_8: -5488468405034027588
+      PandaMaru_MV_xmasdecoration_9: 32343385539544366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

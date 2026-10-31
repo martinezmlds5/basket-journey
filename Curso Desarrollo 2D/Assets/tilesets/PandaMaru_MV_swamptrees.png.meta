@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 12f0e6d9f6b869a40afcfd3049bcc946
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -239810289763650792
+    second: PandaMaru_MV_swamptrees_0
+  - first:
+      213: -6587278403761360190
+    second: PandaMaru_MV_swamptrees_1
+  - first:
+      213: 6772117608229977437
+    second: PandaMaru_MV_swamptrees_2
+  - first:
+      213: -35519333414303912
+    second: PandaMaru_MV_swamptrees_3
+  - first:
+      213: -7552161456705510799
+    second: PandaMaru_MV_swamptrees_4
+  - first:
+      213: 5504579451161364630
+    second: PandaMaru_MV_swamptrees_5
+  - first:
+      213: 4031856200457311767
+    second: PandaMaru_MV_swamptrees_6
+  - first:
+      213: 2168615944464992509
+    second: PandaMaru_MV_swamptrees_7
+  - first:
+      213: -415135945039418246
+    second: PandaMaru_MV_swamptrees_8
+  - first:
+      213: -8452354884807542791
+    second: PandaMaru_MV_swamptrees_9
+  - first:
+      213: 3183452644031964296
+    second: PandaMaru_MV_swamptrees_10
+  - first:
+      213: 7653700680771509594
+    second: PandaMaru_MV_swamptrees_11
+  - first:
+      213: -5103718736792218909
+    second: PandaMaru_MV_swamptrees_12
+  - first:
+      213: -7036681734169236746
+    second: PandaMaru_MV_swamptrees_13
+  - first:
+      213: 6082581834105678111
+    second: PandaMaru_MV_swamptrees_14
+  - first:
+      213: 2833368861528084643
+    second: PandaMaru_MV_swamptrees_15
+  - first:
+      213: -5251770528675445797
+    second: PandaMaru_MV_swamptrees_16
+  - first:
+      213: -258589211310419264
+    second: PandaMaru_MV_swamptrees_17
+  - first:
+      213: -5685171359062244403
+    second: PandaMaru_MV_swamptrees_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8137721efc50cacf0800000000000000
+      internalID: -239810289763650792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 396
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2b33351394594a0800000000000000
+      internalID: -6587278403761360190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 389
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d37bf95156bfd50800000000000000
+      internalID: 6772117608229977437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 384
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8578e2dba5fc18ff0800000000000000
+      internalID: -35519333414303912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 391
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ebae0b25513790800000000000000
+      internalID: -7552161456705510799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 384
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6984368a8d1346c40800000000000000
+      internalID: 5504579451161364630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 391
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d6b54ad704f730800000000000000
+      internalID: 4031856200457311767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8851036b8781e10800000000000000
+      internalID: 2168615944464992509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 245
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ced66be042d3af0800000000000000
+      internalID: -415135945039418246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 240
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73287c30433ba80800000000000000
+      internalID: -8452354884807542791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 249
+        width: 141
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884adc62055ed2c20800000000000000
+      internalID: 3183452644031964296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1d86d738673a60800000000000000
+      internalID: 7653700680771509594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e29efb79d2fb29b0800000000000000
+      internalID: -5103718736792218909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faec55ae3fa85e90800000000000000
+      internalID: -7036681734169236746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19ec1383fba96450800000000000000
+      internalID: 6082581834105678111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 133
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d80db7f5225720800000000000000
+      internalID: 2833368861528084643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 92
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd34f6c7786fd17b0800000000000000
+      internalID: -5251770528675445797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2181d7b7e496cf0800000000000000
+      internalID: -258589211310419264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_swamptrees_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 16
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3cedf25c63a11b0800000000000000
+      internalID: -5685171359062244403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PandaMaru_MV_swamptrees_0: -239810289763650792
+      PandaMaru_MV_swamptrees_1: -6587278403761360190
+      PandaMaru_MV_swamptrees_10: 3183452644031964296
+      PandaMaru_MV_swamptrees_11: 7653700680771509594
+      PandaMaru_MV_swamptrees_12: -5103718736792218909
+      PandaMaru_MV_swamptrees_13: -7036681734169236746
+      PandaMaru_MV_swamptrees_14: 6082581834105678111
+      PandaMaru_MV_swamptrees_15: 2833368861528084643
+      PandaMaru_MV_swamptrees_16: -5251770528675445797
+      PandaMaru_MV_swamptrees_17: -258589211310419264
+      PandaMaru_MV_swamptrees_18: -5685171359062244403
+      PandaMaru_MV_swamptrees_2: 6772117608229977437
+      PandaMaru_MV_swamptrees_3: -35519333414303912
+      PandaMaru_MV_swamptrees_4: -7552161456705510799
+      PandaMaru_MV_swamptrees_5: 5504579451161364630
+      PandaMaru_MV_swamptrees_6: 4031856200457311767
+      PandaMaru_MV_swamptrees_7: 2168615944464992509
+      PandaMaru_MV_swamptrees_8: -415135945039418246
+      PandaMaru_MV_swamptrees_9: -8452354884807542791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

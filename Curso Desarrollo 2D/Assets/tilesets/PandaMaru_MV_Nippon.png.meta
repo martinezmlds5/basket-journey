@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e6e7b0bff5fcd784b8a3f3f82403d6ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6829002051685110643
+    second: PandaMaru_MV_Nippon_0
+  - first:
+      213: -6735397211699647828
+    second: PandaMaru_MV_Nippon_1
+  - first:
+      213: -2051286286585003994
+    second: PandaMaru_MV_Nippon_2
+  - first:
+      213: 6216120648849526425
+    second: PandaMaru_MV_Nippon_3
+  - first:
+      213: -5284365266883162120
+    second: PandaMaru_MV_Nippon_4
+  - first:
+      213: -7755000092780073353
+    second: PandaMaru_MV_Nippon_5
+  - first:
+      213: 478000716652219929
+    second: PandaMaru_MV_Nippon_6
+  - first:
+      213: 4271920970752259418
+    second: PandaMaru_MV_Nippon_7
+  - first:
+      213: 5489049532445829958
+    second: PandaMaru_MV_Nippon_8
+  - first:
+      213: -4830050768965834046
+    second: PandaMaru_MV_Nippon_9
+  - first:
+      213: 5081948341459476671
+    second: PandaMaru_MV_Nippon_10
+  - first:
+      213: 4277580042615117567
+    second: PandaMaru_MV_Nippon_11
+  - first:
+      213: -9220248804307940935
+    second: PandaMaru_MV_Nippon_12
+  - first:
+      213: 8329503417737340052
+    second: PandaMaru_MV_Nippon_13
+  - first:
+      213: -1206284872564775977
+    second: PandaMaru_MV_Nippon_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c25eac0d28a31a0800000000000000
+      internalID: -6829002051685110643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 733
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa6c7febef0782a0800000000000000
+      internalID: -6735397211699647828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 728
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62088739dfd5883e0800000000000000
+      internalID: -2051286286585003994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 728
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e85a3bbc8144650800000000000000
+      internalID: 6216120648849526425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 628
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff440c99c92aa6b0800000000000000
+      internalID: -5284365266883162120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 241
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee8bcd084b06490800000000000000
+      internalID: -7755000092780073353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 527
+        width: 145
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e00768e1332a600800000000000000
+      internalID: 478000716652219929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 479
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55fa324d79e84b30800000000000000
+      internalID: 4271920970752259418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 431
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b25ffa7750d2c40800000000000000
+      internalID: 5489049532445829958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 441
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca60b49a6638fcb0800000000000000
+      internalID: -4830050768965834046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 337
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e39b5715b68640800000000000000
+      internalID: 5081948341459476671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 365
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6df5a92640d5b30800000000000000
+      internalID: 4277580042615117567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 245
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9418e30981b0080800000000000000
+      internalID: -9220248804307940935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 215
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494e2a11a37589370800000000000000
+      internalID: 8329503417737340052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_Nippon_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 65
+        width: 47
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d369d0bc4a624fe0800000000000000
+      internalID: -1206284872564775977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PandaMaru_MV_Nippon_0: -6829002051685110643
+      PandaMaru_MV_Nippon_1: -6735397211699647828
+      PandaMaru_MV_Nippon_10: 5081948341459476671
+      PandaMaru_MV_Nippon_11: 4277580042615117567
+      PandaMaru_MV_Nippon_12: -9220248804307940935
+      PandaMaru_MV_Nippon_13: 8329503417737340052
+      PandaMaru_MV_Nippon_14: -1206284872564775977
+      PandaMaru_MV_Nippon_2: -2051286286585003994
+      PandaMaru_MV_Nippon_3: 6216120648849526425
+      PandaMaru_MV_Nippon_4: -5284365266883162120
+      PandaMaru_MV_Nippon_5: -7755000092780073353
+      PandaMaru_MV_Nippon_6: 478000716652219929
+      PandaMaru_MV_Nippon_7: 4271920970752259418
+      PandaMaru_MV_Nippon_8: 5489049532445829958
+      PandaMaru_MV_Nippon_9: -4830050768965834046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

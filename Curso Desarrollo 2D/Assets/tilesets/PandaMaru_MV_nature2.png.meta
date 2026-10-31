@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: e7f0fe77f65920840acbee2f3922888b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5751062805723820357
+    second: PandaMaru_MV_nature2_0
+  - first:
+      213: 3638655893602426616
+    second: PandaMaru_MV_nature2_1
+  - first:
+      213: -7980072524566025909
+    second: PandaMaru_MV_nature2_2
+  - first:
+      213: 3403076795972110688
+    second: PandaMaru_MV_nature2_3
+  - first:
+      213: -1488628375021525245
+    second: PandaMaru_MV_nature2_4
+  - first:
+      213: -3988609761487812351
+    second: PandaMaru_MV_nature2_5
+  - first:
+      213: -3577018393635711178
+    second: PandaMaru_MV_nature2_6
+  - first:
+      213: -4122098390090903104
+    second: PandaMaru_MV_nature2_7
+  - first:
+      213: 7121501745264545565
+    second: PandaMaru_MV_nature2_8
+  - first:
+      213: 87539621496053700
+    second: PandaMaru_MV_nature2_9
+  - first:
+      213: 5921309883531126396
+    second: PandaMaru_MV_nature2_10
+  - first:
+      213: -8208351429672788501
+    second: PandaMaru_MV_nature2_11
+  - first:
+      213: -3000690979814457208
+    second: PandaMaru_MV_nature2_12
+  - first:
+      213: 978660775697767586
+    second: PandaMaru_MV_nature2_13
+  - first:
+      213: -1704572726088276275
+    second: PandaMaru_MV_nature2_14
+  - first:
+      213: 7283112424840875473
+    second: PandaMaru_MV_nature2_15
+  - first:
+      213: 595815030128808656
+    second: PandaMaru_MV_nature2_16
+  - first:
+      213: 4653404186344740946
+    second: PandaMaru_MV_nature2_17
+  - first:
+      213: -7506779131911368092
+    second: PandaMaru_MV_nature2_18
+  - first:
+      213: -2653416447561732136
+    second: PandaMaru_MV_nature2_19
+  - first:
+      213: 4761374302557381051
+    second: PandaMaru_MV_nature2_20
+  - first:
+      213: 7732717752236953809
+    second: PandaMaru_MV_nature2_21
+  - first:
+      213: -8211415840815208604
+    second: PandaMaru_MV_nature2_22
+  - first:
+      213: -6786948335223271359
+    second: PandaMaru_MV_nature2_23
+  - first:
+      213: 347042830480359458
+    second: PandaMaru_MV_nature2_24
+  - first:
+      213: -5413485784411139447
+    second: PandaMaru_MV_nature2_25
+  - first:
+      213: -7371582917427107074
+    second: PandaMaru_MV_nature2_26
+  - first:
+      213: 415736504141317477
+    second: PandaMaru_MV_nature2_27
+  - first:
+      213: 2763693017934131964
+    second: PandaMaru_MV_nature2_28
+  - first:
+      213: 1718209340120180902
+    second: PandaMaru_MV_nature2_29
+  - first:
+      213: -7763409769482556639
+    second: PandaMaru_MV_nature2_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 385
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbecedf39de1030b0800000000000000
+      internalID: -5751062805723820357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 622
+        width: 199
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fedd0eb14a1f7230800000000000000
+      internalID: 3638655893602426616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 240
+        width: 351
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b492363b156114190800000000000000
+      internalID: -7980072524566025909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 623
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ca4fc0582a3f20800000000000000
+      internalID: 3403076795972110688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 623
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30766484164575be0800000000000000
+      internalID: -1488628375021525245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 597
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1090dd2fd8c95a8c0800000000000000
+      internalID: -3988609761487812351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 542
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371e4c09b0eb5ec0800000000000000
+      internalID: -3577018393635711178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 508
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11c61aa5d5bc6c0800000000000000
+      internalID: -4122098390090903104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_8
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 505
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f41d12b18a4d260800000000000000
+      internalID: 7121501745264545565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 503
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf5b0b62d0073100800000000000000
+      internalID: 87539621496053700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_10
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 485
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76e1e477f7bc2250800000000000000
+      internalID: 5921309883531126396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 489
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed98ca4dd3161e80800000000000000
+      internalID: -8208351429672788501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 483
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c073c3776b56d0800000000000000
+      internalID: -3000690979814457208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 444
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd2135ac6e49d00800000000000000
+      internalID: 978660775697767586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 390
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc660b703242858e0800000000000000
+      internalID: -1704572726088276275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 386
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddcfdda920d21560800000000000000
+      internalID: 7283112424840875473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_16
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 336
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29aa6fc92c44800800000000000000
+      internalID: 595815030128808656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 144
+        width: 127
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258d463e376349040800000000000000
+      internalID: 4653404186344740946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 192
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629b13f62092d790800000000000000
+      internalID: -7506779131911368092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 6
+        width: 97
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df67e1accb2d2bd0800000000000000
+      internalID: -2653416447561732136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_20
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 241
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12b9a83bcc31240800000000000000
+      internalID: 4761374302557381051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_21
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 220
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0d07273d1205b60800000000000000
+      internalID: 7732717752236953809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 202
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a1397cc03b0e80800000000000000
+      internalID: -8211415840815208604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 194
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140961aa27aefc1a0800000000000000
+      internalID: -6786948335223271359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 193
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220c0a89d91f0d400800000000000000
+      internalID: 347042830480359458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 194
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9821c876c5f6fd4b0800000000000000
+      internalID: -5413485784411139447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6b669460e2b990800000000000000
+      internalID: -7371582917427107074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 19
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658189d52ef4c500800000000000000
+      internalID: 415736504141317477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 95
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f03a382c9a5620800000000000000
+      internalID: 2763693017934131964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a82f979a4e48d710800000000000000
+      internalID: 1718209340120180902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_nature2_30
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 26
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12be13c62f3d24490800000000000000
+      internalID: -7763409769482556639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PandaMaru_MV_nature2_0: -5751062805723820357
+      PandaMaru_MV_nature2_1: 3638655893602426616
+      PandaMaru_MV_nature2_10: 5921309883531126396
+      PandaMaru_MV_nature2_11: -8208351429672788501
+      PandaMaru_MV_nature2_12: -3000690979814457208
+      PandaMaru_MV_nature2_13: 978660775697767586
+      PandaMaru_MV_nature2_14: -1704572726088276275
+      PandaMaru_MV_nature2_15: 7283112424840875473
+      PandaMaru_MV_nature2_16: 595815030128808656
+      PandaMaru_MV_nature2_17: 4653404186344740946
+      PandaMaru_MV_nature2_18: -7506779131911368092
+      PandaMaru_MV_nature2_19: -2653416447561732136
+      PandaMaru_MV_nature2_2: -7980072524566025909
+      PandaMaru_MV_nature2_20: 4761374302557381051
+      PandaMaru_MV_nature2_21: 7732717752236953809
+      PandaMaru_MV_nature2_22: -8211415840815208604
+      PandaMaru_MV_nature2_23: -6786948335223271359
+      PandaMaru_MV_nature2_24: 347042830480359458
+      PandaMaru_MV_nature2_25: -5413485784411139447
+      PandaMaru_MV_nature2_26: -7371582917427107074
+      PandaMaru_MV_nature2_27: 415736504141317477
+      PandaMaru_MV_nature2_28: 2763693017934131964
+      PandaMaru_MV_nature2_29: 1718209340120180902
+      PandaMaru_MV_nature2_3: 3403076795972110688
+      PandaMaru_MV_nature2_30: -7763409769482556639
+      PandaMaru_MV_nature2_4: -1488628375021525245
+      PandaMaru_MV_nature2_5: -3988609761487812351
+      PandaMaru_MV_nature2_6: -3577018393635711178
+      PandaMaru_MV_nature2_7: -4122098390090903104
+      PandaMaru_MV_nature2_8: 7121501745264545565
+      PandaMaru_MV_nature2_9: 87539621496053700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

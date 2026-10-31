@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 9fb080777c86e544e832df604bdfb285
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1227839778216118758
+    second: '!PandaMaru_MV_SFDoor1_0'
+  - first:
+      213: -4196549025539420725
+    second: '!PandaMaru_MV_SFDoor1_1'
+  - first:
+      213: -4174905328294740040
+    second: '!PandaMaru_MV_SFDoor1_2'
+  - first:
+      213: 1718531357148904040
+    second: '!PandaMaru_MV_SFDoor1_3'
+  - first:
+      213: -7848320723195265720
+    second: '!PandaMaru_MV_SFDoor1_4'
+  - first:
+      213: -8431736736504387666
+    second: '!PandaMaru_MV_SFDoor1_5'
+  - first:
+      213: 7450808228594279772
+    second: '!PandaMaru_MV_SFDoor1_6'
+  - first:
+      213: 2469282687047158159
+    second: '!PandaMaru_MV_SFDoor1_7'
+  - first:
+      213: 6187311537722059273
+    second: '!PandaMaru_MV_SFDoor1_8'
+  - first:
+      213: 451564306700442903
+    second: '!PandaMaru_MV_SFDoor1_9'
+  - first:
+      213: 1094712034024695506
+    second: '!PandaMaru_MV_SFDoor1_10'
+  - first:
+      213: 3554748938157414679
+    second: '!PandaMaru_MV_SFDoor1_11'
+  - first:
+      213: 7941234417348413157
+    second: '!PandaMaru_MV_SFDoor1_12'
+  - first:
+      213: 2285422360777165233
+    second: '!PandaMaru_MV_SFDoor1_13'
+  - first:
+      213: -2089562562803494014
+    second: '!PandaMaru_MV_SFDoor1_14'
+  - first:
+      213: -5949113191346727314
+    second: '!PandaMaru_MV_SFDoor1_15'
+  - first:
+      213: 5869761426969537853
+    second: '!PandaMaru_MV_SFDoor1_16'
+  - first:
+      213: 7604479745316017485
+    second: '!PandaMaru_MV_SFDoor1_17'
+  - first:
+      213: 4640613171687358598
+    second: '!PandaMaru_MV_SFDoor1_18'
+  - first:
+      213: -2172139287981720087
+    second: '!PandaMaru_MV_SFDoor1_19'
+  - first:
+      213: -7446180323697528832
+    second: '!PandaMaru_MV_SFDoor1_20'
+  - first:
+      213: -5025338574015446099
+    second: '!PandaMaru_MV_SFDoor1_21'
+  - first:
+      213: -3324406558745288516
+    second: '!PandaMaru_MV_SFDoor1_22'
+  - first:
+      213: 1876411018772656577
+    second: '!PandaMaru_MV_SFDoor1_23'
+  - first:
+      213: 2161274919983174121
+    second: '!PandaMaru_MV_SFDoor1_24'
+  - first:
+      213: 6952876913103441983
+    second: '!PandaMaru_MV_SFDoor1_25'
+  - first:
+      213: -5920594096994541399
+    second: '!PandaMaru_MV_SFDoor1_26'
+  - first:
+      213: -7865364302204080133
+    second: '!PandaMaru_MV_SFDoor1_27'
+  - first:
+      213: -3915353933313306849
+    second: '!PandaMaru_MV_SFDoor1_28'
+  - first:
+      213: -3186265056081190943
+    second: '!PandaMaru_MV_SFDoor1_29'
+  - first:
+      213: -3064669736767191460
+    second: '!PandaMaru_MV_SFDoor1_30'
+  - first:
+      213: -8339681583926177273
+    second: '!PandaMaru_MV_SFDoor1_31'
+  - first:
+      213: -5670699769709206474
+    second: '!PandaMaru_MV_SFDoor1_32'
+  - first:
+      213: 674010932513836537
+    second: '!PandaMaru_MV_SFDoor1_33'
+  - first:
+      213: -140354784641489863
+    second: '!PandaMaru_MV_SFDoor1_34'
+  - first:
+      213: 6528835596907592064
+    second: '!PandaMaru_MV_SFDoor1_35'
+  - first:
+      213: -179926141663185213
+    second: '!PandaMaru_MV_SFDoor1_36'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1675522a36d5fee0800000000000000
+      internalID: -1227839778216118758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_1'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd063245ecd2c5c0800000000000000
+      internalID: -4196549025539420725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_2'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3b1839b1cf06c0800000000000000
+      internalID: -4174905328294740040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_3'
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86afa360a2379d710800000000000000
+      internalID: 1718531357148904040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_4'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dfb9a62e9251390800000000000000
+      internalID: -7848320723195265720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_5'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea76b058c147cfa80800000000000000
+      internalID: -8431736736504387666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_6'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556bea9b96966760800000000000000
+      internalID: 7450808228594279772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_7'
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89c7736587a44220800000000000000
+      internalID: 2469282687047158159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_8'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a6990df0fbdd550800000000000000
+      internalID: 6187311537722059273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_9'
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d102e2857444600800000000000000
+      internalID: 451564306700442903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_10'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 671
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6236f7bc2313f00800000000000000
+      internalID: 1094712034024695506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_11'
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 671
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d19c4351055130800000000000000
+      internalID: 3554748938157414679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_12'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6882cc0aee43e60800000000000000
+      internalID: 7941234417348413157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_13'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98bd7478377bf10800000000000000
+      internalID: 2285422360777165233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_14'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283942c8be16003e0800000000000000
+      internalID: -2089562562803494014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_15'
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66103d7211807da0800000000000000
+      internalID: -5949113191346727314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_16'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d2fc22be4957150800000000000000
+      internalID: 5869761426969537853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_17'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d631c90a888960800000000000000
+      internalID: 7604479745316017485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_18'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6808c66b715c66040800000000000000
+      internalID: 4640613171687358598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_19'
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edfd2973d20bd1e0800000000000000
+      internalID: -2172139287981720087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_20'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0007188727ad9a890800000000000000
+      internalID: -7446180323697528832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_21'
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3cdbb3139624ab0800000000000000
+      internalID: -5025338574015446099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_22'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 575
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0220929d55dd1d0800000000000000
+      internalID: -3324406558745288516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_23'
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 575
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b29241e95a0a10800000000000000
+      internalID: 1876411018772656577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_24'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1de8bb6146efd10800000000000000
+      internalID: 2161274919983174121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_25'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309b8ce6b49d7060800000000000000
+      internalID: 6952876913103441983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_26'
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ad559903d5dda0800000000000000
+      internalID: -5920594096994541399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_27'
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6612f6dc98d290800000000000000
+      internalID: -7865364302204080133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_28'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f8ee2975ed9a9c0800000000000000
+      internalID: -3915353933313306849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_29'
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef5a0420dc18c3d0800000000000000
+      internalID: -3186265056081190943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_30'
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c560a1a9c1b1875d0800000000000000
+      internalID: -3064669736767191460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_31'
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029632f8cf734c80800000000000000
+      internalID: -8339681583926177273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_32'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e796aa90ad41b0800000000000000
+      internalID: -5670699769709206474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_33'
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd873f3f519a5900800000000000000
+      internalID: 674010932513836537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_34'
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 479
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934eae6211c5d0ef0800000000000000
+      internalID: -140354784641489863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_35'
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 479
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0893a9652651b9a50800000000000000
+      internalID: 6528835596907592064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!PandaMaru_MV_SFDoor1_36'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 864
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6fb50a026c08df0800000000000000
+      internalID: -179926141663185213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!PandaMaru_MV_SFDoor1_0': -1227839778216118758
+      '!PandaMaru_MV_SFDoor1_1': -4196549025539420725
+      '!PandaMaru_MV_SFDoor1_10': 1094712034024695506
+      '!PandaMaru_MV_SFDoor1_11': 3554748938157414679
+      '!PandaMaru_MV_SFDoor1_12': 7941234417348413157
+      '!PandaMaru_MV_SFDoor1_13': 2285422360777165233
+      '!PandaMaru_MV_SFDoor1_14': -2089562562803494014
+      '!PandaMaru_MV_SFDoor1_15': -5949113191346727314
+      '!PandaMaru_MV_SFDoor1_16': 5869761426969537853
+      '!PandaMaru_MV_SFDoor1_17': 7604479745316017485
+      '!PandaMaru_MV_SFDoor1_18': 4640613171687358598
+      '!PandaMaru_MV_SFDoor1_19': -2172139287981720087
+      '!PandaMaru_MV_SFDoor1_2': -4174905328294740040
+      '!PandaMaru_MV_SFDoor1_20': -7446180323697528832
+      '!PandaMaru_MV_SFDoor1_21': -5025338574015446099
+      '!PandaMaru_MV_SFDoor1_22': -3324406558745288516
+      '!PandaMaru_MV_SFDoor1_23': 1876411018772656577
+      '!PandaMaru_MV_SFDoor1_24': 2161274919983174121
+      '!PandaMaru_MV_SFDoor1_25': 6952876913103441983
+      '!PandaMaru_MV_SFDoor1_26': -5920594096994541399
+      '!PandaMaru_MV_SFDoor1_27': -7865364302204080133
+      '!PandaMaru_MV_SFDoor1_28': -3915353933313306849
+      '!PandaMaru_MV_SFDoor1_29': -3186265056081190943
+      '!PandaMaru_MV_SFDoor1_3': 1718531357148904040
+      '!PandaMaru_MV_SFDoor1_30': -3064669736767191460
+      '!PandaMaru_MV_SFDoor1_31': -8339681583926177273
+      '!PandaMaru_MV_SFDoor1_32': -5670699769709206474
+      '!PandaMaru_MV_SFDoor1_33': 674010932513836537
+      '!PandaMaru_MV_SFDoor1_34': -140354784641489863
+      '!PandaMaru_MV_SFDoor1_35': 6528835596907592064
+      '!PandaMaru_MV_SFDoor1_36': -179926141663185213
+      '!PandaMaru_MV_SFDoor1_4': -7848320723195265720
+      '!PandaMaru_MV_SFDoor1_5': -8431736736504387666
+      '!PandaMaru_MV_SFDoor1_6': 7450808228594279772
+      '!PandaMaru_MV_SFDoor1_7': 2469282687047158159
+      '!PandaMaru_MV_SFDoor1_8': 6187311537722059273
+      '!PandaMaru_MV_SFDoor1_9': 451564306700442903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

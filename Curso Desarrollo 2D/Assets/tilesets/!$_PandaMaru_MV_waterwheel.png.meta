@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 680f7ab22cc2ff34ca4488ffc1a0d333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -248747314656640028
+    second: '!$_PandaMaru_MV_waterwheel_0'
+  - first:
+      213: 7286297698477316467
+    second: '!$_PandaMaru_MV_waterwheel_1'
+  - first:
+      213: 1006830383672748460
+    second: '!$_PandaMaru_MV_waterwheel_2'
+  - first:
+      213: 5065407767395277405
+    second: '!$_PandaMaru_MV_waterwheel_3'
+  - first:
+      213: -266179766928933570
+    second: '!$_PandaMaru_MV_waterwheel_4'
+  - first:
+      213: 8850729819752702853
+    second: '!$_PandaMaru_MV_waterwheel_5'
+  - first:
+      213: -5520650098159075806
+    second: '!$_PandaMaru_MV_waterwheel_6'
+  - first:
+      213: -1565433577665493610
+    second: '!$_PandaMaru_MV_waterwheel_7'
+  - first:
+      213: 7111777892294549840
+    second: '!$_PandaMaru_MV_waterwheel_8'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_0'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 683
+        width: 127
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e30f0f92a54c8cf0800000000000000
+      internalID: -248747314656640028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_1'
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 683
+        width: 148
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799c7df6212e1560800000000000000
+      internalID: 7286297698477316467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_2'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 732
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca962e746eaf8fd00800000000000000
+      internalID: 1006830383672748460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_3'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 467
+        width: 125
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a991ad681fb4640800000000000000
+      internalID: 5065407767395277405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_4'
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 467
+        width: 151
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dfdc989e65e4cf0800000000000000
+      internalID: -266179766928933570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_5'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 251
+        width: 127
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583215db0eb14da70800000000000000
+      internalID: 8850729819752702853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_6'
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 251
+        width: 159
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb0024cf5b263b0800000000000000
+      internalID: -5520650098159075806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_7'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 125
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69587c38476764ae0800000000000000
+      internalID: -1565433577665493610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!$_PandaMaru_MV_waterwheel_8'
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 150
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05161bf205c12b260800000000000000
+      internalID: 7111777892294549840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '!$_PandaMaru_MV_waterwheel_0': -248747314656640028
+      '!$_PandaMaru_MV_waterwheel_1': 7286297698477316467
+      '!$_PandaMaru_MV_waterwheel_2': 1006830383672748460
+      '!$_PandaMaru_MV_waterwheel_3': 5065407767395277405
+      '!$_PandaMaru_MV_waterwheel_4': -266179766928933570
+      '!$_PandaMaru_MV_waterwheel_5': 8850729819752702853
+      '!$_PandaMaru_MV_waterwheel_6': -5520650098159075806
+      '!$_PandaMaru_MV_waterwheel_7': -1565433577665493610
+      '!$_PandaMaru_MV_waterwheel_8': 7111777892294549840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
