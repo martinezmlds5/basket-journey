@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Zanahoria
   - Suelo
+  - AreaMuerte
+  - AreaSegura
   layers:
   - Default
   - TransparentFX
